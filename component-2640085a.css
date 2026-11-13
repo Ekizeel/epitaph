@@ -1,0 +1,1 @@
+@layer quartz-base{.scheme-picker{cursor:pointer;background:0 0;border:none;flex-shrink:0;width:20px;height:32px;margin:0 6px 0 2px;padding:0;position:relative}.scheme-picker svg{width:20px;height:20px;fill:var(--darkgray);position:absolute;top:calc(50% - 10px)}}
